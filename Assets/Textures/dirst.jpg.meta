@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: e8635b9fa07008e4c89b0f2d0a15ef41
+timeCreated: 1460527761
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dirst_0
+    21300002: dirst_1
+    21300004: dirst_2
+    21300006: dirst_5
+    21300008: dirst_6
+    21300010: dirst_7
+    21300012: dirst_8
+    21300014: dirst_9
+    21300016: dirst_10
+    21300018: dirst_11
+    21300020: dirst_12
+    21300022: dirst_13
+    21300024: dirst_14
+    21300026: dirst_15
+    21300028: dirst_16
+    21300030: dirst_4
+    21300032: dirst_17
+    21300034: dirst_3
+    21300036: dirst_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dirst_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 155
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 80.5}
+        - {x: -56.5, y: 80.5}
+        - {x: -77.5, y: 33.5}
+        - {x: -77.5, y: -80.5}
+        - {x: 77.5, y: -80.5}
+        - {x: 77.5, y: -48.5}
+        - {x: 72.5, y: 29.5}
+    - name: dirst_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 142
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 64}
+        - {x: 15.5, y: 77}
+        - {x: -19.5, y: 77}
+        - {x: -80.5, y: -55}
+        - {x: -80.5, y: -77}
+        - {x: 80.5, y: -77}
+        - {x: 80.5, y: -54}
+        - {x: 53.5, y: 51}
+        - {x: 37.5, y: 50}
+        - {x: 31.5, y: 40}
+    - name: dirst_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 188
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -4.5}
+        - {x: -38.5, y: -53.5}
+        - {x: 38.5, y: -53.5}
+        - {x: 38.5, y: -35.5}
+        - {x: 23.5, y: 42.5}
+        - {x: 17.5, y: 53.5}
+        - {x: -30.5, y: 53.5}
+        - {x: -36.5, y: 52.5}
+    - name: dirst_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 1024
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -512, y: 32}
+        - {x: -512, y: -32}
+        - {x: 512, y: -32}
+        - {x: 512, y: 32}
+    - name: dirst_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 1024
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 451, y: 20.5}
+        - {x: 424, y: 17.5}
+        - {x: 384, y: 17.5}
+        - {x: 361, y: 20.5}
+        - {x: 183, y: 20.5}
+        - {x: 159, y: 19.5}
+        - {x: 80, y: 18.5}
+        - {x: 51, y: 20.5}
+        - {x: -227, y: 20.5}
+        - {x: -302, y: 17.5}
+        - {x: -315, y: 20.5}
+        - {x: -512, y: 20.5}
+        - {x: -512, y: -20.5}
+        - {x: 512, y: -20.5}
+        - {x: 512, y: 20.5}
+    - name: dirst_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 223
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 36}
+        - {x: 20.5, y: 31}
+        - {x: -24.5, y: -25}
+        - {x: -24.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 24.5, y: 36}
+    - name: dirst_18
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 211
+        width: 252
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -23.5}
+        - {x: 60, y: -23.5}
+        - {x: 63, y: -17.5}
+        - {x: 121, y: 4.5}
+        - {x: 122, y: 10.5}
+        - {x: 122, y: 34.5}
+        - {x: 115, y: 41.5}
+        - {x: -99, y: 41.5}
+        - {x: -122, y: 32.5}
+        - {x: -126, y: 22.5}
+        - {x: -126, y: -41.5}
+        - {x: -2, y: -41.5}
+        - {x: -4, y: -28.5}
+        - {x: -8, y: -25.5}
+    - name: dirst_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1022
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
